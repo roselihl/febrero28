@@ -1,6 +1,6 @@
 void main (void)
 {
 
-printf("Chilo");
+printf("Hola");
 
 }
